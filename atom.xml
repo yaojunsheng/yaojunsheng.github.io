@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>框架</title>
+  <title>框架`Blog</title>
   <icon>https://www.gravatar.com/avatar/f3788caf7763a538ed4f17b4a38744ba</icon>
   <subtitle>一个乐于分享技术与快乐的博主</subtitle>
   <link href="http://yaojunsheng.github.io/atom.xml" rel="self"/>
